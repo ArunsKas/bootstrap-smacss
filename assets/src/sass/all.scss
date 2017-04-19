@@ -6,6 +6,7 @@
 
 // Base
 @import "base/variables";
+@import "utilities/mixins";
 @import 'base/normalize';
 @import 'base/scaffolding';
 //@import "base/code";
@@ -13,7 +14,6 @@
 //@import 'base/glyphicons';
 
 // Utilities
-@import "utilities/mixins";
 //@import "utilities/alerts";
 //@import "utilities/close";
 //@import "utilities/media";
